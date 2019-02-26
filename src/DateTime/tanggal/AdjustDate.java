@@ -5,7 +5,7 @@ import java.time.LocalDate;
 import java.time.temporal.TemporalAdjusters;
 import java.util.Calendar;
 
-public class Ajuss {
+public class AdjustDate {
     public static void adjustDate(){
         System.out.println("==============================================");
         System.out.println("PBI 3 - Temporal Adjuster");

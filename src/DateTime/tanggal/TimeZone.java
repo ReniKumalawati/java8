@@ -3,7 +3,7 @@ package DateTime.tanggal;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 
-public class TimeJon {
+public class TimeZone {
     public static void showTimeZone(){
         ZonedDateTime currentZone = ZonedDateTime.now();
         System.out.println("==============================================");
